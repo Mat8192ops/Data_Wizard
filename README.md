@@ -1,6 +1,6 @@
 # Data Wizard
 
-Project created by Maciej Matusiak and Jakub Kozłowski. Application based on the PyQt5 library and files with the Ui extension in order to create a fully functional mechanism for presenting statistical data. The presented project was also prepared for further development and work on it related to the implementation of new models and mechanisms that it could support. Application implements an XGBoost Random Forest Regressor model and presents forecasts graphically using subplots from matplotlib.pyplot. 
+Project created by Maciej Matusiak and Jakub Kozłowski. Application based on the PyQt5 library and files with the Ui extension in order to create a fully functional mechanism for presenting statistical data. The presented project was also prepared for further development and work on it related to the implementation of new models and mechanisms that it could support. Application implements an XGBoost Random Forest Regressor model and presents forecasts graphically using subplots from matplotlib.pyplot.
 
 # Division of responsibilites
 
