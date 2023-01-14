@@ -18,4 +18,4 @@ Jakub Kozłowski
 - Manipulation of pandas DataFrames, including filtering and merging dataframes, handling missing values in stocks data, calculating rolling means and deviations from trends for a group of records, etc.
 - Creating an XGBoost regression model with grid search cross-validation on time series data and implementing it recursively to calculate future values.
 - Creating a visualization of the model's forecasts in matplotlib.pyplot.
-- Creating a simple error control to check the completness of the project.
+- Creating a simple error control to check the completness of the project. 
